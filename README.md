@@ -19,3 +19,4 @@ COCO
 
 # Demo
 
+![Farmers Market Finder Demo](demo/soc_dist.mov)
